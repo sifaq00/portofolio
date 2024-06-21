@@ -12,7 +12,7 @@ export default function App() {
     return (
             <>
                 <Routes>
-                    <Route path="/" element={<ContentPage/>} />
+                    <Route path="/portofolio/" element={<ContentPage/>} />
                 </Routes>
             </>
     )
