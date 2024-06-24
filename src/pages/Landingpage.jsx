@@ -38,12 +38,12 @@ function LandingPage() {
                   competent development skills with focus on collaboration,
                   communication, and passion
                 </p>
-                <button className="px-8 shadow-gray-500 shadow-md py-5 mt-10 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
+                <a href="/portofolio/CV.pdf" download className="inline-block px-8 shadow-gray-500 shadow-md py-5 mt-10 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
                   Download resume
-                </button>
+                </a>
               </div>
             </div>
-            <div className="relative">
+            <div className="relative ">
               <div className="after:bg-[url('./large-long.png')] after:bg-contain after:block after:bg-no-repeat after:w-[420px] after:h-[320px] after:absolute after:top-0 after:-left-20 sm:after:-left-40 before:bg-[url('./small.png')] before:bg-contain before:block before:bg-no-repeat before:w-[220px] before:h-[220px] before:absolute before:bottom-0 before:-right-10">
                 <img src={Porfile} className="relative z-10 w-[280px] m-auto sm:w-[600px]" />
               </div>
