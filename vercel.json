@@ -3,13 +3,13 @@
     "builds": [
         {
             "src": "public/**/*",
-            "use": "@vercel/build",
+            "use": "@vercel/build"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/SIFF PORTFOLIO/dist/index.html"
+            "dest": "/siff_portfolio/dist/index.html"
         }
-    ],
+    ]
 }
