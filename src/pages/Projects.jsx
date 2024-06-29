@@ -98,7 +98,7 @@ function Projects() {
               species from photos. Upload an image for instant identification.
             </p>
             <div className="flex gap-4 mt-12">
-            <a href="https://github.com/sifaq00/Rental-Mobil.git" target="_blank" className="flex-1 text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700 text-center">
+            <a href="https://github.com/sifaq00/" target="_blank" className="flex-1 text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700 text-center">
                 Checkout github
               </a>
             </div>
@@ -115,7 +115,7 @@ function Projects() {
               Start your adventure now!
             </p>
             <div className="flex gap-2 mt-12">
-            <a href="https://github.com/sifaq00/Rental-Mobil.git" target="_blank" className="flex-1 text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700 text-center">
+            <a href="https://github.com/sifaq00/Dolan-Kendal" target="_blank" className="flex-1 text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700 text-center">
                 Checkout github
               </a>
             </div>
