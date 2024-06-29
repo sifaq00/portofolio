@@ -38,7 +38,7 @@ function LandingPage() {
                   competent development skills with focus on collaboration,
                   communication, and passion
                 </p>
-                <a href="/portofolio/CV.pdf" download className="inline-block px-8 shadow-gray-500 shadow-md py-5 mt-10 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
+                <a href="/portofolio/MUHAMMAD_ASIFAQ.pdf" download className="inline-block px-8 shadow-gray-500 shadow-md py-5 mt-10 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
                   Download resume
                 </a>
               </div>
