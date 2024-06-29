@@ -60,7 +60,7 @@ function Header() {
           {/* Navigasi utama */}
           <nav className={`${
             isOpen ? 'block' : 'hidden'
-          } sm:block absolute right-0 top-full mt-2 sm:mt-0 sm:relative sm:flex sm:items-center sm:space-x-4 backdrop-blur bg-gray-900 bg-opacity-80 py-2 px-4 sm:px-6 rounded-lg sm:bg-transparent sm:backdrop-none w-full sm:w-auto`}>
+          } sm:block absolute right-0 top-full mt-2 sm:mt-0 sm:relative sm:flex sm:items-center sm:space-x-4 backdrop-blur bg-gray-900 bg-opacity-80 py-2 px-4 sm:px-6 rounded-lg sm:bg-transparent sm:backdrop-none`}>
             <ul className="flex flex-col sm:flex-row gap-4 mt-4 sm:mt-0">
               <li>
                 <a href="#projects" className="text-gray-400 hover:text-white cursor-pointer">
