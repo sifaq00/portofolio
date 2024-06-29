@@ -1,4 +1,4 @@
-import Porfile from "../assets/Photo.png";
+import Porfile from "../assets/profile.png";
 import { useEffect, useState } from "react";
 
 import htmlLogo from "../assets/html.png";
