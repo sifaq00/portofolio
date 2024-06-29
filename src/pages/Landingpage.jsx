@@ -22,13 +22,13 @@ function LandingPage() {
           setIndex((prevIndex) => (prevIndex + 1) % titles.length);
         }, 3000); // change every 3 seconds
     
-        return () => clearInterval(interval); // cleanup on unmount
+        return () => clearInterval(interval); 
       }, []);
   return (
     <section>
           <div className="container m-auto px-4 pt-12 pb-12 sm:pt-28 flex flex-col sm:flex-row gap-6 text-center sm:text-left" data-aos="fade-right">
             <div>
-              <h2 className="font-bold text-4xl">Hello, I'm Muhammad Asifaq,</h2>
+              <h2 className="font-bold text-4xl">Hello, I'm Muhammad Asifaq</h2>
               <div>
               <h2 className="font-bold text-4xl mt-1 gradiant-text">{titles[index]}</h2>
               </div>
