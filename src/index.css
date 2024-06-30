@@ -10,4 +10,15 @@
     display: table;
     clear: both;
 }
-
+/* Assuming you are using this in src/index.css */
+.divWithBackground::before {
+    content: '';
+    background-image: url('/assets/small.png');
+    /* Other styles */
+  }
+  .divWithBackground::after {
+    content: '';
+    background-image: url('/assets/large-long.png');
+    /* Other styles */
+  }
+  
