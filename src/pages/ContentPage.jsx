@@ -9,7 +9,7 @@ import ToTop from "../components/ToTop.jsx";
 
 export default function ContentPage() {
     return (
-        <div className="container m-auto py-6 max-w-4xl">
+        <div className="container m-auto py-6 max-w-4xl overflow-x-hidden">
             <Header/>
             <LandingPage/>
             <Projects/>
