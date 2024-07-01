@@ -17,7 +17,7 @@ function AboutMe() {
             <div className="clearfix">
               <img src={Experience1} className="float-left w-auto h-24 mr-2" />
               <p>
-                I am participating in the Independent Study Program at Bangkit,
+                Participating in the Independent Study Program at Bangkit,
                 part of the MSIB Kampus Merdeka Batch 5, with a focus on the
                 Machine Learning Learning Path. This program offers practical
                 and innovative learning experiences in technology, allowing me
@@ -36,7 +36,7 @@ function AboutMe() {
                 className="float-left w-auto h-24 mr-2 object-contain"
               />
               <p>
-                I participated in a training program at Dicoding, where I
+                Participated in a training program at Dicoding, where I
                 learned technology skills such as programming and app
                 development. This training, with a structured curriculum and
                 experienced mentors, provided practical knowledge and skills
@@ -53,7 +53,7 @@ function AboutMe() {
                 className="float-left w-auto h-24 mr-2 object-contain"
               />
               <p>
-                I participated in the Kampus Merdeka Program Batch 5. This
+                Participated in the Kampus Merdeka Program Batch 5. This
                 program provided me with the opportunity to learn outside the
                 campus and gain valuable practical experience. During the
                 program, I engaged in various real-world projects, collaborated
