@@ -11,14 +11,5 @@
     clear: both;
 }
 
-@media (max-width: 768px) {
-    .clearfix img {
-      float: left;
-      display: block;
-      margin: 0 auto;
-    }
-    .clearfix p {
-      text-align: left;
-    }
-  }
+
   
